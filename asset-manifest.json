@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fashion-store/static/css/main.cb2fd609.css",
+    "main.js": "/fashion-store/static/js/main.76178bc5.js",
+    "static/media/cat6.jpg": "/fashion-store/static/media/cat6.b1e146578d929f896d4d.jpg",
+    "static/media/fashion4.jpg": "/fashion-store/static/media/fashion4.cbdb2f15f578cd83302f.jpg",
+    "static/media/cat13.jpg": "/fashion-store/static/media/cat13.14f22d0235c168a4c45b.jpg",
+    "static/media/cat7.jpg": "/fashion-store/static/media/cat7.706e25c69a7d79ed5c31.jpg",
+    "static/media/fashion5.jpg": "/fashion-store/static/media/fashion5.e508b309c75795027343.jpg",
+    "static/media/fashion6.jpg": "/fashion-store/static/media/fashion6.3eea9872b96bc85a0323.jpg",
+    "static/media/cat8.jpg": "/fashion-store/static/media/cat8.ddc89708e6509a0bcb79.jpg",
+    "static/media/cat5.jpg": "/fashion-store/static/media/cat5.68cc39d16447edbbc043.jpg",
+    "static/media/cat14.jpg": "/fashion-store/static/media/cat14.cb94112ed8dde99faf6a.jpg",
+    "static/media/cat12.jpg": "/fashion-store/static/media/cat12.ef48fc5ff3ba8fe7ee50.jpg",
+    "static/media/logo.jpg": "/fashion-store/static/media/logo.4ab339ec21dda5742499.jpg",
+    "static/media/cat11.jpg": "/fashion-store/static/media/cat11.3891d5107af9d89177b9.jpg",
+    "static/media/fashion3.jpg": "/fashion-store/static/media/fashion3.f0e47db45d28d7f4d5d2.jpg",
+    "static/media/payment2.jpg": "/fashion-store/static/media/payment2.3cc6e54299bb586040f6.jpg",
+    "index.html": "/fashion-store/index.html",
+    "main.cb2fd609.css.map": "/fashion-store/static/css/main.cb2fd609.css.map",
+    "main.76178bc5.js.map": "/fashion-store/static/js/main.76178bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2fd609.css",
+    "static/js/main.76178bc5.js"
+  ]
+}
